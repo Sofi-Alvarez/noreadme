@@ -1,13 +1,20 @@
-The background color is `#fafafa`
+ <style>
+        body {
+            background-color: #FAFAFA;
+        }
+    </style>
+
 <div align="center">
   <h1 align="center">
     BOOKIE
     <br />
     <br />
+    ![Logo](https://github.com/Sofi-Alvarez/noreadme/blob/main/Activos-Imagenes/Iconos%20.SVG/Logo%20app.svg)
         <img src="Logo app.svg" alt="Bookie">
     </a>
   </h1>
 </div>
+
 
 *Descubre historias en el mundo real, un capítulo a la vez.*  
 
