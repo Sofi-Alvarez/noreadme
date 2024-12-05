@@ -36,12 +36,15 @@
 ## **Instrucciones de Instalación y Ejecución**  
 1. Clona este repositorio:  
    ```bash
-   git clone https://github.com/usuario/nombre-proyecto.git
+   git clone [https://github.com/usuario/nombre-proyecto.git](https://github.com/No-Country-simulation/h3-14-bookie/tree/develop)
 2. Navega al directorio del proyecto:
+   ```bash
    cd nombre-proyecto
-3. Instalar las dependencias:
+4. Instalar las dependencias:
+   ```bash
    npm install
-4. Ejecuta el proyecto en tu entorno local:
+6. Ejecuta el proyecto en tu entorno local:
+   ```bash
    npm start
 
 ---
