@@ -36,7 +36,7 @@
 ## **Instrucciones de Instalación y Ejecución**  
 1. Clona este repositorio:  
    ```bash
-   git clone https://github.com/No-Country-simulation/h3-14-bookie/tree/develop.git  
+   git clone https://github.com/No-Country-simulation/h3-14-bookie/tree/develop 
 
 2. Navega al directorio del proyecto:
    ```bash
