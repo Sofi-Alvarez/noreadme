@@ -9,7 +9,7 @@
     BOOKIE
     <br />
     <br />
-    ![Logo](https://github.com/Sofi-Alvarez/noreadme/blob/main/Activos-Imagenes/Iconos%20.SVG/Logo%20app.svg)
+    ![Logo](https://github.com/Sofi-Alvarez/noreadme/blob/main/Activos-Imagenes/Iconos.SVG/Logoapp.svg)
         <img src="Logo app.svg" alt="Bookie">
     </a>
   </h1>
