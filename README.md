@@ -16,15 +16,6 @@ Tecnología / Entretenimiento / Literatura
 
 <div style="background-color: #FAFAFA; padding: 15px; border-radius: 10px;">
 
-## **🗒️ Información General**  
-- **Cliente:** Openlab  
-- **Fecha de Solicitud:** 24/10/2024  
-- **Fecha de Entrega:** 16/12/2024  
-
-</div>
-
----
-
 ## **📚 Descripción General del Proyecto**  
 ### **Objetivo del Proyecto**  
 Crear una experiencia inmersiva de lectura que combine la exploración física de espacios con la narrativa de historias cortas.  
@@ -36,6 +27,7 @@ Además, los usuarios pueden escribir y compartir sus propias historias, creando
 
 <div align="center">
 <img src="https://via.placeholder.com/600x300?text=Imagen+Demo+App" alt="Demostración App" width="70%">
+</div>
 </div>
 
 ---
@@ -60,18 +52,6 @@ Además, los usuarios pueden escribir y compartir sus propias historias, creando
 
 ---
 
-## **🎨 Diseño y Marca**  
-- **Guía de Marca:** Libre.  
-- **Paleta de Colores:** Inspirada en tonos relacionados con lectores y viajeros, basada en una imagen generada por IA.  
-- **Logotipos y Gráficos:** Basados en elementos visuales de la paleta seleccionada.  
-- **Tipografía:** Libre.  
-
-![Paleta de colores](https://via.placeholder.com/400x200?text=Paleta+de+Colores)
-
-[Link al prototipo o wireframes, si están disponibles]  
-
----
-
 ## **👥 Tipos de Usuarios / Roles**  
 1. **📚 Lector**  
    - **Descripción:** Usuario que explora historias en su área y las desbloquea en ubicaciones específicas.  
@@ -83,45 +63,12 @@ Además, los usuarios pueden escribir y compartir sus propias historias, creando
 
 ---
 
-## **📖 Casos de Uso / User Stories**  
-### **User Stories Principales**  
-1. **Un usuario descubre la aplicación**  
-   - **Descripción:** Descubre la app, se registra y encuentra historias organizadas por distancia y sinopsis.  
-   - **Usuarios Involucrados:** Lector.  
-
-2. **Un usuario decide leer una historia**  
-   - **Descripción:** Se desplaza al lugar indicado para desbloquear capítulos y completar la narrativa.  
-   - **Usuarios Involucrados:** Lector.  
-
-3. **Un usuario interesado en escribir**  
-   - **Descripción:** Crea capítulos vinculados a ubicaciones específicas realizando el recorrido planteado.  
-   - **Usuarios Involucrados:** Escritor.  
-
----
-
 ## **🚀 Tecnologías Utilizadas**  
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)  
 ![Firestore](https://img.shields.io/badge/Firestore-%23FFA000.svg?style=for-the-badge&logo=firebase&logoColor=white)  
 ![Auth0](https://img.shields.io/badge/Auth0-%23EB5424.svg?style=for-the-badge&logo=auth0&logoColor=white)  
-![Google Maps](https://img.shields.io/badge/Google%20Maps-%234285F4.svg?style=for-the-badge&logo=google-maps&logoColor=white)  
-
----
-
-## **🔗 Enlaces Relevantes**  
-- [Repositorio en GitHub](#)  
-- [Prototipo en Figma](#)  
-- [Video demostrativo](#)  
-- [Documentación oficial](#)  
-
----
-
-## **👩‍💻 Colaboradores**  
-- **Nombre Apellido**  
-  - **Rol:** [Rol en el proyecto]  
-  - **LinkedIn:** [Enlace al perfil]  
-  - **GitHub:** [Enlace al perfil]  
-
-[Repetir para cada colaborador]  
+![Google Maps](https://img.shields.io/badge/Google%20Maps-%234285F4.svg?style=for-the-badge&logo=google-maps&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  
 
 ---
 
@@ -139,6 +86,25 @@ Además, los usuarios pueden escribir y compartir sus propias historias, creando
    ```bash
    flutter run
 Nota: Asegúrate de tener Flutter y Dart correctamente instalados.
+
+---
+
+## **👩‍💻 Colaboradores**  
+- **Nombre Apellido**  
+  - **Rol:** [Rol en el proyecto]  
+  - **LinkedIn:** [Enlace al perfil]  
+  - **GitHub:** [Enlace al perfil]  
+
+[Repetir para cada colaborador]  
+
+---
+
+## **🔗 Enlaces Relevantes**  
+- [Repositorio en GitHub](#)  
+- [Prototipo en Figma](#)  
+- [Video demostrativo](#)  
+- [Documentación oficial](#)  
+
 
   
 
