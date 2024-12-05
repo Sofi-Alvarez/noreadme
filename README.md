@@ -1,16 +1,8 @@
- <style>
-        body {
-            background-color: #FAFAFA;
-        }
-    </style>
-
 <div align="center">
   <h1 align="center">
     BOOKIE
     <br />
     <br />
-    ![Logo](https://github.com/Sofi-Alvarez/noreadme/blob/main/Activos-Imagenes/Iconos.SVG/Logoapp.svg)
-        <img src="Logo app.svg" alt="Bookie">
     </a>
   </h1>
 </div>
