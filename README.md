@@ -64,11 +64,29 @@ Además, los usuarios pueden escribir y compartir sus propias historias, creando
 ---
 
 ## **🚀 Tecnologías Utilizadas**  
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)  
-![Firestore](https://img.shields.io/badge/Firestore-%23FFA000.svg?style=for-the-badge&logo=firebase&logoColor=white)  
-![Auth0](https://img.shields.io/badge/Auth0-%23EB5424.svg?style=for-the-badge&logo=auth0&logoColor=white)  
-![Google Maps](https://img.shields.io/badge/Google%20Maps-%234285F4.svg?style=for-the-badge&logo=google-maps&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  
+
+<div align="center">
+  <div>
+    <img src="https://img.icons8.com/color/48/flutter.png" alt="Flutter" />
+    <p style="color: #02569B; font-weight: bold;">Flutter</p>
+  </div>
+  <div>
+    <img src="https://img.icons8.com/color/48/firebase.png" alt="Firestore" />
+    <p style="color: #FFA000; font-weight: bold;">Firestore</p>
+  </div>
+  <div>
+    <img src="https://img.icons8.com/color/48/auth0.png" alt="Auth0" />
+    <p style="color: #EB5424; font-weight: bold;">Auth0</p>
+  </div>
+  <div>
+    <img src="https://img.icons8.com/color/48/google-maps.png" alt="Google Maps" />
+    <p style="color: #4285F4; font-weight: bold;">Google Maps</p>
+  </div>
+  <div>
+    <img src="https://img.icons8.com/color/48/figma.png" alt="Figma" />
+    <p style="color: #F24E1E; font-weight: bold;">Figma</p>
+  </div>
+</div>
 
 ---
 
