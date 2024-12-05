@@ -1,4 +1,13 @@
-# **BOOKIE**  
+<div align="center">
+  <h1 align="center">
+    **BOOKIE**
+    <br />
+    <br />
+      <img src="https://docusaurus.io/img/slash-introducing.svg" alt="Docusaurus">
+    </a>
+  </h1>
+</div>
+**BOOKIE**  
 *Descubre historias en el mundo real, un capítulo a la vez.*  
 
 ## **Industria o Rubro**  
