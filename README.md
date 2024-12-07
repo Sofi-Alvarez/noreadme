@@ -62,46 +62,67 @@ El propósito de Bookie es revolucionar la experiencia de lectura al combinarla 
 
 ---
 
-## **👩‍💻 Colaboradores**  
-- **Rodrigo Cordoneda**  
-  - **Rol:** Team Leader 
-  - **LinkedIn:** 
-  - **GitHub:** 
+## **👥 Colaboradores**  
 
-- **Cristian Cerón**  
-  - **Rol:** Product Manager
-  - **LinkedIn:** 
-  - **GitHub:** 
+<div align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
 
-- **Sofía Álvarez**  
-  - **Rol:** Diseñadora UX/UI 
-  - **LinkedIn:** www.linkedin.com/in/sofía-álvarez-20
-  - **GitHub:** https://github.com/Sofi-Alvarez
+  <div align="center">
+    <p>🎯 <strong>Rodrigo Cordoneda</strong></p>
+    <p>**Rol:** Team Leader</p>
+    <p>**LinkedIn:** N/A</p>
+    <p>**GitHub:** N/A</p>
+  </div>
+  
+  <div align="center">
+    <p>🎯 <strong>Cristian Cerón</strong></p>
+    <p>**Rol:** Product Manager</p>
+    <p>**LinkedIn:** N/A</p>
+    <p>**GitHub:** N/A</p>
+  </div>
+  
+  <div align="center">
+    <p>🎯 <strong>Sofía Álvarez</strong></p>
+    <p>**Rol:** Diseñadora UX/UI</p>
+    <p>**LinkedIn:** [www.linkedin.com/in/sofía-álvarez-20](https://www.linkedin.com/in/sofía-álvarez-20)</p>
+    <p>**GitHub:** [Sofi-Alvarez](https://github.com/Sofi-Alvarez)</p>
+  </div>
+  
+  <div align="center">
+    <p>🎯 <strong>Valentina Molina</strong></p>
+    <p>**Rol:** Diseñadora UX/UI</p>
+    <p>**LinkedIn:** N/A</p>
+    <p>**GitHub:** N/A</p>
+  </div>
+  
+  <div align="center">
+    <p>🎯 <strong>Jhosep Tinta Mancilla</strong></p>
+    <p>**Rol:** Front-end</p>
+    <p>**LinkedIn:** N/A</p>
+    <p>**GitHub:** [JhosepTM](https://github.com/JhosepTM)</p>
+  </div>
+  
+  <div align="center">
+    <p>🎯 <strong>Jose Luis Huanca</strong></p>
+    <p>**Rol:** Front-end</p>
+    <p>**LinkedIn:** N/A</p>
+    <p>**GitHub:** [JoseLuisHcoder](https://github.com/JoseLuisHcoder)</p>
+  </div>
+  
+  <div align="center">
+    <p>🎯 <strong>Daniel Matos</strong></p>
+    <p>**Rol:** Back-end</p>
+    <p>**LinkedIn:** N/A</p>
+    <p>**GitHub:** [Daniel-M12](https://github.com/Daniel-M12)</p>
+  </div>
+  
+  <div align="center">
+    <p>🎯 <strong>Maximiliano Echeverría</strong></p>
+    <p>**Rol:** Back-end</p>
+    <p>**LinkedIn:** N/A</p>
+    <p>**GitHub:** [MaximilianoEcheverria](https://github.com/MaximilianoEcheverria)</p>
+  </div>
 
-- **Valentina Molina**  
-  - **Rol:** Diseñadora UX/UI 
-  - **LinkedIn:** 
-  - **GitHub:** 
-
-- **Jhosep Tinta Mancilla**  
-  - **Rol:** Front-end
-  - **LinkedIn:** 
-  - **GitHub:** https://github.com/JhosepTM
-
-- **Jose Luis Huanca**  
-  - **Rol:** Front-end
-  - **LinkedIn:** 
-  - **GitHub:** https://github.com/JoseLuisHcoder
-
-- **Daniel Matos**  
-  - **Rol:** Back-end
-  - **LinkedIn:** 
-  - **GitHub:** https://github.com/Daniel-M12
-
-- **Maximiliano Echeverría**  
-  - **Rol:** Back-end
-  - **LinkedIn:** 
-  - **GitHub:** https://github.com/MaximilianoEcheverria
+</div>
 
 ---
 
