@@ -44,10 +44,10 @@ El propósito de Bookie es revolucionar la experiencia de lectura al combinarla 
 
 ## **🔧 Alcance del Proyecto / Funcionalidades**  
 
-1. **Inscripción y login de usuarios**: Implementado mediante Auth0.  
-2. **Creación de historias**: Selección de lugares, creación de capítulos y vínculo con ubicaciones específicas.  
-3. **Visualización de historias**: Feed de historias disponibles organizadas por proximidad y estado (leídas/no leídas).  
-4. **Lectura de historias**: Desbloqueo de capítulos mediante GPS y navegación hacia la siguiente ubicación con Google Maps.  
+- **Inscripción y login de usuarios**: Implementado mediante Auth0.  
+- **Creación de historias**: Selección de lugares, creación de capítulos y vínculo con ubicaciones específicas.  
+- **Visualización de historias**: Feed de historias disponibles organizadas por proximidad y estado (leídas/no leídas).  
+- **Lectura de historias**: Desbloqueo de capítulos mediante GPS y navegación hacia la siguiente ubicación con Google Maps.  
 
 ---
 
