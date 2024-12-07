@@ -63,10 +63,10 @@ El propósito de Bookie es revolucionar la experiencia de lectura al combinarla 
 ---
 
 ## **👩‍💻 Colaboradores**  
-- **Nombre Apellido**  
-  - **Rol:** [Rol en el proyecto]  
-  - **LinkedIn:** [Enlace al perfil]  
-  - **GitHub:** [Enlace al perfil]  
+- ** Sofía Álvarez**  
+  - **Rol:** Diseñadora UX/UI 
+  - **LinkedIn:** www.linkedin.com/in/sofía-álvarez-20  
+  - **GitHub:** https://github.com/Sofi-Alvarez 
 
 [Repetir para cada colaborador]  
 
