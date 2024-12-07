@@ -64,7 +64,7 @@ El propósito de Bookie es revolucionar la experiencia de lectura al combinarla 
 
 ## **👥 Colaboradores**  
 
-<div align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
+<div align="left" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
 
   <div align="center">
     <p>🎯 <strong>Rodrigo Cordoneda</strong></p>
