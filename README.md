@@ -104,10 +104,10 @@ Nota: Asegúrate de tener Flutter y Dart correctamente instalados.
 ---
 
 ## **🔗 Enlaces Relevantes**  
-- [Repositorio en GitHub](#(https://github.com/No-Country-simulation/h3-14-bookie))
-- [Prototipo en Figma](#(https://www.figma.com/proto/hps5pgUhOIUXp7aydqOWMq/Bookie?page-id=0%3A1&node-id=145-3121&node-type=canvas&viewport=388%2C312%2C0.07&t=5nFk2UPSgdSaPgcI-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=145%3A3121))  
+- [Repositorio en GitHub](https://github.com/No-Country-simulation/h3-14-bookie)
+- [Prototipo en Figma](https://www.figma.com/proto/hps5pgUhOIUXp7aydqOWMq/Bookie?page-id=0%3A1&node-id=145-3121&node-type=canvas&viewport=388%2C312%2C0.07&t=5nFk2UPSgdSaPgcI-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=145%3A3121)
 - [Video demostrativo](#)  
-- [Documentación oficial](#(https://drive.google.com/drive/folders/1Y8Cqw8kKARASbGS59DPaMGM3kdfGq6Ll?usp=sharing))  
+- [Documentación oficial](https://drive.google.com/drive/folders/1Y8Cqw8kKARASbGS59DPaMGM3kdfGq6Ll?usp=sharing)
 
 
   
