@@ -67,14 +67,14 @@ El propósito de Bookie es revolucionar la experiencia de lectura al combinarla 
 
 | **Nombre**               | **Rol**             | **LinkedIn**                               | **GitHub**                                      |
 |--------------------------|---------------------|--------------------------------------------|------------------------------------------------|
-| **Rodrigo Cordoneda**     | Team Leader         | N/A                                        | N/A                                            |
-| **Cristian Cerón**        | Product Manager     | N/A                                        | N/A                                            |
+| **Rodrigo Cordoneda**     | Team Leader         | [LinkedIn](https://www.linkedin.com/in/rodrigocordoneda/) |                                             |
+| **Cristian Cerón**        | Product Manager     | [LinkedIn](https://www.linkedin.com/in/cristianceronb/) |                                             |
 | **Sofía Álvarez**         | Diseñadora UX/UI     | [LinkedIn](https://www.linkedin.com/in/sofía-álvarez-20)  | [GitHub](https://github.com/Sofi-Alvarez)     |
-| **Valentina Molina**      | Diseñadora UX/UI     | N/A                                        | N/A                                            |
-| **Jhosep Tinta Mancilla** | Front-end           | .[LinkedIn]https://www.linkedin.com/in/jhosep-tinta/ | [GitHub](https://github.com/JhosepTM)          |
+| **Valentina Molina**      | Diseñadora UX/UI     | [LinkedIn]                                        |                                             |
+| **Jhosep Tinta Mancilla** | Front-end           | [LinkedIn](https://www.linkedin.com/in/jhosep-tinta/) | [GitHub](https://github.com/JhosepTM)          |
 | **Jose Luis Huanca**      | Front-end           | [LinkedIn](https://www.linkedin.com/in/joseluishc/) | [GitHub](https://github.com/JoseLuisHcoder)    |
-| **Daniel Matos**          | Back-end            | N/A                                        | [GitHub](https://github.com/Daniel-M12)        |
-| **Maximiliano Echeverría**| Back-end            | N/A                                        | [GitHub](https://github.com/MaximilianoEcheverria) |
+| **Daniel Matos**          | Back-end            | [LinkedIn]                                        | [GitHub](https://github.com/Daniel-M12)        |
+| **Maximiliano Echeverría**| Back-end            | [LinkedIn](https://www.linkedin.com/in/maximiliano-echeverria/) | [GitHub](https://github.com/MaximilianoEcheverria) |
 
 ---
 
