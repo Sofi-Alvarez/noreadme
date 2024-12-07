@@ -17,13 +17,17 @@ Tecnología / Entretenimiento / Literatura
 <div style="background-color: #FAFAFA; padding: 15px; border-radius: 10px;">
 
 ## **📚 Descripción General del Proyecto**  
-### **Objetivo del Proyecto**  
-Crear una experiencia inmersiva de lectura que combine la exploración física de espacios con la narrativa de historias cortas.  
 
 ### **Descripción del Producto**  
 Bookie es una aplicación móvil para iOS y Android, desarrollada con **Flutter** y **Firestore** como backend.  
 Permite leer historias que solo pueden desbloquearse en ubicaciones específicas, proporcionando una experiencia inmersiva en la que los escenarios físicos interactúan con las narrativas digitales.  
-Además, los usuarios pueden escribir y compartir sus propias historias, creando una comunidad interactiva de lectores y escritores.  
+Además, los usuarios pueden escribir y publicar sus propias historias, creando una comunidad interactiva de lectores y escritores.  
+
+### **¿Cuál es el problema?**
+Bookie aborda la desconexión entre los lectores y el contexto físico al momento de disfrutar una historia. Muchas aplicaciones de lectura no ofrecen una experiencia inmersiva que vincule la narrativa con el entorno real, limitando el impacto emocional y la interacción con el espacio. Además, escritores aficionados carecen de plataformas innovadoras para compartir sus historias de forma creativa.
+
+### **Propósito**
+El propósito de Bookie es revolucionar la experiencia de lectura al combinarla con la geolocalización. La aplicación permite a los usuarios desbloquear capítulos únicamente al estar en lugares específicos, creando un vínculo directo entre la narrativa y el entorno físico. Esto fomenta la exploración, el turismo y el descubrimiento de nuevos lugares mientras se disfruta de historias únicas. También brinda a los escritores una plataforma para publicar relatos inmersivos y conectados con espacios del mundo real.
 
 <div align="center">
 <img src="https://via.placeholder.com/600x300?text=Imagen+Demo+App" alt="Demostración App" width="70%">
@@ -40,15 +44,10 @@ Además, los usuarios pueden escribir y compartir sus propias historias, creando
 
 ## **🔧 Alcance del Proyecto / Funcionalidades**  
 
-### **Funcionalidades Obligatorias**  
 1. **Inscripción y login de usuarios**: Implementado mediante Auth0.  
 2. **Creación de historias**: Selección de lugares, creación de capítulos y vínculo con ubicaciones específicas.  
 3. **Visualización de historias**: Feed de historias disponibles organizadas por proximidad y estado (leídas/no leídas).  
 4. **Lectura de historias**: Desbloqueo de capítulos mediante GPS y navegación hacia la siguiente ubicación con Google Maps.  
-
-### **Funcionalidades Adicionales**  
-1. **Agregar a favoritos**: Lista de historias que el usuario desea leer posteriormente.  
-2. **[Funcionalidad adicional pendiente de definir].**  
 
 ---
 
@@ -63,9 +62,36 @@ Además, los usuarios pueden escribir y compartir sus propias historias, creando
 
 ---
 
+## **👩‍💻 Colaboradores**  
+- **Nombre Apellido**  
+  - **Rol:** [Rol en el proyecto]  
+  - **LinkedIn:** [Enlace al perfil]  
+  - **GitHub:** [Enlace al perfil]  
+
+[Repetir para cada colaborador]  
+
+---
+
+## **🛠️ Instrucciones de Instalación y Ejecución**  
+1. Clona este repositorio:  
+   ```bash
+   git clone https://github.com/No-Country-simulation/h3-14-bookie.git
+2. Navega al directorio del proyecto:
+   ```bash
+   cd nombre-proyecto
+4. Instalar las dependencias:
+   ```bash
+   flutter pub get
+6. Ejecuta el proyecto en tu entorno local:
+   ```bash
+   flutter run
+Nota: Asegúrate de tener Flutter y Dart correctamente instalados.
+
+---
+
 ## **🚀 Tecnologías Utilizadas**  
 
-<div align="center" style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
+<div align="left" style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
 
   <div align="center">
     <img src="https://img.icons8.com/color/48/flutter.png" alt="Flutter" />
@@ -93,40 +119,6 @@ Además, los usuarios pueden escribir y compartir sus propias historias, creando
   </div>
   
 </div>
-
----
-
-| ![Flutter](https://img.icons8.com/color/48/flutter.png) | ![Firestore](https://img.icons8.com/color/48/firebase.png) | ![Auth0](https://img.icons8.com/color/48/auth0.png) | ![Google Maps](https://img.icons8.com/color/48/google-maps.png) | ![Figma](https://img.icons8.com/color/48/figma.png) |
-|:------------------------------------------------------:|:--------------------------------------------------------:|:--------------------------------------------------:|:------------------------------------------------------------:|:--------------------------------------------------:|
-| **Flutter**                                           | **Firestore**                                            | **Auth0**                                           | **Google Maps**                                               | **Figma**                                           |
-
-
----
-
-## **🛠️ Instrucciones de Instalación y Ejecución**  
-1. Clona este repositorio:  
-   ```bash
-   git clone https://github.com/No-Country-simulation/h3-14-bookie.git
-2. Navega al directorio del proyecto:
-   ```bash
-   cd nombre-proyecto
-4. Instalar las dependencias:
-   ```bash
-   flutter pub get
-6. Ejecuta el proyecto en tu entorno local:
-   ```bash
-   flutter run
-Nota: Asegúrate de tener Flutter y Dart correctamente instalados.
-
----
-
-## **👩‍💻 Colaboradores**  
-- **Nombre Apellido**  
-  - **Rol:** [Rol en el proyecto]  
-  - **LinkedIn:** [Enlace al perfil]  
-  - **GitHub:** [Enlace al perfil]  
-
-[Repetir para cada colaborador]  
 
 ---
 
