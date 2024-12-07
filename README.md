@@ -97,9 +97,7 @@ Nota: Asegúrate de tener Flutter y Dart correctamente instalados.
 
 ## **🚀 Tecnologías Utilizadas**  
 
-<div align="left" style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
-
-  <div align="center">
+ <div align="center">
     <img src="https://img.icons8.com/color/48/flutter.png" alt="Flutter" />
     <p style="color: #02569B; font-weight: bold;">Flutter</p>
   </div>
@@ -124,8 +122,6 @@ Nota: Asegúrate de tener Flutter y Dart correctamente instalados.
     <p style="color: #F24E1E; font-weight: bold;">Figma</p>
   </div>
   
-</div>
-
 ---
 
 ## **🔗 Enlaces Relevantes**  
