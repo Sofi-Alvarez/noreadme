@@ -63,15 +63,45 @@ El propósito de Bookie es revolucionar la experiencia de lectura al combinarla 
 ---
 
 ## **👩‍💻 Colaboradores**  
-- **Sofía Álvarez**  
-  - **Rol:** Diseñadora UX/UI 
-  - **LinkedIn:** www.linkedin.com/in/sofía-álvarez-20  
-  - **GitHub:** https://github.com/Sofi-Alvarez  
+- **Rodrigo Cordoneda**  
+  - **Rol:** Team Leader 
+  - **LinkedIn:** 
+  - **GitHub:** 
+
+- **Cristian Cerón**  
+  - **Rol:** Product Manager
+  - **LinkedIn:** 
+  - **GitHub:** 
 
 - **Sofía Álvarez**  
   - **Rol:** Diseñadora UX/UI 
-  - **LinkedIn:** www.linkedin.com/in/sofía-álvarez-20  
-  - **GitHub:** https://github.com/Sofi-Alvarez  
+  - **LinkedIn:** www.linkedin.com/in/sofía-álvarez-20
+  - **GitHub:** https://github.com/Sofi-Alvarez
+
+- **Valentina Molina**  
+  - **Rol:** Diseñadora UX/UI 
+  - **LinkedIn:** 
+  - **GitHub:** 
+
+- **Jhosep Tinta Mancilla**  
+  - **Rol:** Front-end
+  - **LinkedIn:** 
+  - **GitHub:** https://github.com/JhosepTM
+
+- **Jose Luis Huanca**  
+  - **Rol:** Front-end
+  - **LinkedIn:** 
+  - **GitHub:** https://github.com/JoseLuisHcoder
+
+- **Daniel Matos**  
+  - **Rol:** Back-end
+  - **LinkedIn:** 
+  - **GitHub:** https://github.com/Daniel-M12
+
+- **Maximiliano Echeverría**  
+  - **Rol:** Back-end
+  - **LinkedIn:** 
+  - **GitHub:** https://github.com/MaximilianoEcheverria
 
 ---
 
