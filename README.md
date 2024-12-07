@@ -97,30 +97,10 @@ Nota: Asegúrate de tener Flutter y Dart correctamente instalados.
 
 ## **🚀 Tecnologías Utilizadas**  
 
- <div align="center">
-    <img src="https://img.icons8.com/color/48/flutter.png" alt="Flutter" />
-    <p style="color: #02569B; font-weight: bold;">Flutter</p>
-  </div>
-  
-  <div align="center">
-    <img src="https://img.icons8.com/color/48/firebase.png" alt="Firestore" />
-    <p style="color: #FFA000; font-weight: bold;">Firestore</p>
-  </div>
-  
-  <div align="center">
-    <img src="https://img.icons8.com/color/48/auth0.png" alt="Auth0" />
-    <p style="color: #EB5424; font-weight: bold;">Auth0</p>
-  </div>
-  
-  <div align="center">
-    <img src="https://img.icons8.com/color/48/google-maps.png" alt="Google Maps" />
-    <p style="color: #4285F4; font-weight: bold;">Google Maps</p>
-  </div>
-  
-  <div align="center">
-    <img src="https://img.icons8.com/color/48/figma.png" alt="Figma" />
-    <p style="color: #F24E1E; font-weight: bold;">Figma</p>
-  </div>
+| ![Flutter](https://img.icons8.com/color/48/flutter.png) | ![Firestore](https://img.icons8.com/color/48/firebase.png) | ![Auth0](https://upload.wikimedia.org/wikipedia/commons/6/6f/Auth0_logo.png)
+ | ![Google Maps](https://img.icons8.com/color/48/google-maps.png) | ![Figma](https://img.icons8.com/color/48/figma.png) |
+|:------------------------------------------------------:|:--------------------------------------------------------:|:--------------------------------------------------:|:------------------------------------------------------------:|:--------------------------------------------------:|
+| **Flutter**                                           | **Firestore**                                            | **Auth0**                                           | **Google Maps**                                               | **Figma**                                           |
   
 ---
 
