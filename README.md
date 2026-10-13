@@ -1,114 +1,52 @@
-<div align="center">
+# Bookie
 
-# **📖 Bookie**  
-*Descubre historias en el mundo real, un capítulo a la vez.*
+**Stories you unlock in the real world, one chapter at a time.**
 
-![Bookie Banner](https://via.placeholder.com/800x200?text=Tu+Banner+Aquí)
+A mobile reading app where each chapter unlocks only when the reader reaches a specific place. Built in a cross-functional team during a No Country hackathon (December 2024). **Hackathon finalist.**
 
-</div>
+My role: **UX/UI Designer**, from the client's user story to the brand, the flows and the navigable prototype.
 
----
+**Prototype:** [Figma](https://www.figma.com/proto/hps5pgUhOIUXp7aydqOWMq/Bookie?page-id=0%3A1&node-id=145-3121&starting-point-node-id=145%3A3121) · **Case study:** [portfolio](https://sofia-alvarez-ux-iu.vercel.app/#/case-study/bookie) · **App code (team):** [No-Country-simulation/h3-14-bookie](https://github.com/No-Country-simulation/h3-14-bookie)
 
-## **🌟 Industria o Rubro**  
-Tecnología / Entretenimiento / Literatura  
+![Bookie screens](docs/bookie-cover.webp)
 
----
+## The challenge
 
-<div style="background-color: #FAFAFA; padding: 15px; border-radius: 10px;">
+The client knew the story they wanted to tell (an app that unlocks chapters when you physically arrive at a location) but not how it should work inside the app. Reading apps treat reading as a passive activity, disconnected from the place you are in, and amateur writers have few creative ways to share their work.
 
-## **📚 Descripción General del Proyecto**  
+## What I did
 
-### **Descripción del Producto**  
-Bookie es una aplicación móvil para iOS y Android, desarrollada con **Flutter** y **Firestore** como backend.  
-Permite leer historias que solo pueden desbloquearse en ubicaciones específicas, proporcionando una experiencia inmersiva en la que los escenarios físicos interactúan con las narrativas digitales.  
-Además, los usuarios pueden escribir y publicar sus propias historias, creando una comunidad interactiva de lectores y escritores.  
+- **Benchmark** of three reading platforms. They all shared the same pattern: reading disconnected from the physical world. Bookie's differentiator was real; the challenge was making it clear from the first screen.
+- **User types and flows.** I identified different usage logics for readers and writers and kept them in separate flows, so the reader never has to mix "reading mode" and "exploring mode".
+- **The critical screen.** The transition between chapters: the reader has just finished reading and needs to know right away where to go next. I designed a dedicated screen with the next location on the map, the estimated distance and a preview of the next chapter (Nielsen's visibility of system status).
+- **Brand and UI kit.** Systematized typography (Roboto + Recursive), tokenized palette, custom icons and illustrations, and reusable components for the development team.
+- **Validation.** No real users were available during the hackathon, so iterations were based on Nielsen's heuristics. The natural next step would be usability testing with readers of apps like Wattpad.
 
-### **¿Cuál es el problema?**
-Bookie aborda la desconexión entre los lectores y el contexto físico al momento de disfrutar una historia. Muchas aplicaciones de lectura no ofrecen una experiencia inmersiva que vincule la narrativa con el entorno real, limitando el impacto emocional y la interacción con el espacio. Además, escritores aficionados carecen de plataformas innovadoras para compartir sus historias de forma creativa.
+## Product scope
 
-### **Propósito**
-El propósito de Bookie es revolucionar la experiencia de lectura al combinarla con la geolocalización. La aplicación permite a los usuarios desbloquear capítulos únicamente al estar en lugares específicos, creando un vínculo directo entre la narrativa y el entorno físico. Esto fomenta la exploración, el turismo y el descubrimiento de nuevos lugares mientras se disfruta de historias únicas. También brinda a los escritores una plataforma para publicar relatos inmersivos y conectados con espacios del mundo real.
+- Sign up and login (Auth0)
+- Story creation: pick places, write chapters and link each one to a location
+- Story feed organized by proximity and read / unread status
+- Reading: chapters unlock by GPS, with navigation to the next location (Google Maps)
 
-<div align="center">
-<img src="https://via.placeholder.com/600x300?text=Imagen+Demo+App" alt="Demostración App" width="70%">
-</div>
-</div>
+## Stack (team)
 
----
+Flutter · Firestore · Auth0 · Google Maps · Figma
 
-## **🎯 Público Objetivo**  
-- Personas de todas las edades interesadas en la lectura, viajes y exploración urbana.  
-- Escritores aficionados que deseen compartir sus obras en un formato innovador.  
+## Repository contents
 
----
+- [`Activos-Imagenes/`](Activos-Imagenes) Icons, logo and illustrations exported for development (SVG)
+- [`docs/`](docs) Screens of the final prototype
 
-## **🔧 Alcance del Proyecto / Funcionalidades**  
+## Team
 
-- **Inscripción y login de usuarios**: Implementado mediante Auth0.  
-- **Creación de historias**: Selección de lugares, creación de capítulos y vínculo con ubicaciones específicas.  
-- **Visualización de historias**: Feed de historias disponibles organizadas por proximidad y estado (leídas/no leídas).  
-- **Lectura de historias**: Desbloqueo de capítulos mediante GPS y navegación hacia la siguiente ubicación con Google Maps.  
-
----
-
-## **👥 Tipos de Usuarios / Roles**  
-1. **📚 Lector**  
-   - **Descripción:** Usuario que explora historias en su área y las desbloquea en ubicaciones específicas.  
-   - **Ejemplo:** Descubre una historia en la app y programa una visita al lugar donde comienza la narrativa.  
-
-2. **✍️ Escritor**  
-   - **Descripción:** Usuario que crea historias en el lugar donde se desarrolla la narrativa.  
-   - **Ejemplo:** Un escritor en un museo inicia una historia que conecta directamente con ese espacio físico.  
-
----
-
-## **👥 Colaboradores**  
-
-
-| **Nombre**               | **Rol**             | **LinkedIn**                               | **GitHub**                                      |
-|--------------------------|---------------------|--------------------------------------------|------------------------------------------------|
-| **Rodrigo Cordoneda**     | Team Leader         | [LinkedIn](https://www.linkedin.com/in/rodrigocordoneda/) |                                             |
-| **Cristian Cerón**        | Product Manager     | [LinkedIn](https://www.linkedin.com/in/cristianceronb/) |                                             |
-| **Sofía Álvarez**         | Diseñadora UX/UI     | [LinkedIn](https://www.linkedin.com/in/sofía-álvarez-20)  | [GitHub](https://github.com/Sofi-Alvarez)     |
-| **Valentina Molina**      | Diseñadora UX/UI     | [LinkedIn]                                        |                                             |
-| **Jhosep Tinta Mancilla** | Front-end           | [LinkedIn](https://www.linkedin.com/in/jhosep-tinta/) | [GitHub](https://github.com/JhosepTM)          |
-| **Jose Luis Huanca**      | Front-end           | [LinkedIn](https://www.linkedin.com/in/joseluishc/) | [GitHub](https://github.com/JoseLuisHcoder)    |
-| **Daniel Matos**          | Back-end            | [LinkedIn]                                        | [GitHub](https://github.com/Daniel-M12)        |
-| **Maximiliano Echeverría**| Back-end            | [LinkedIn](https://www.linkedin.com/in/maximiliano-echeverria/) | [GitHub](https://github.com/MaximilianoEcheverria) |
-
----
-
-## **🛠️ Instrucciones de Instalación y Ejecución**  
-1. Clona este repositorio:  
-   ```bash
-   git clone https://github.com/No-Country-simulation/h3-14-bookie.git
-2. Navega al directorio del proyecto:
-   ```bash
-   cd nombre-proyecto
-4. Instalar las dependencias:
-   ```bash
-   flutter pub get
-6. Ejecuta el proyecto en tu entorno local:
-   ```bash
-   flutter run
-Nota: Asegúrate de tener Flutter y Dart correctamente instalados.
-
----
-
-## **🚀 Tecnologías Utilizadas**  
-
-| ![Flutter](https://img.icons8.com/color/48/flutter.png) | ![Firestore](https://img.icons8.com/color/48/firebase.png) | ![Auth0](https://img.icons8.com/color/48/auth0.png) | ![Google Maps](https://img.icons8.com/color/48/google-maps.png) | ![Figma](https://img.icons8.com/color/48/figma.png) |
-|:------------------------------------------------------:|:--------------------------------------------------------:|:--------------------------------------------------:|:------------------------------------------------------------:|:--------------------------------------------------:|
-| **Flutter**                                           | **Firestore**                                            | **Auth0**                                           | **Google Maps**                                               | **Figma**                                           |
-
----
-
-## **🔗 Enlaces Relevantes**  
-- [Repositorio en GitHub](https://github.com/No-Country-simulation/h3-14-bookie)
-- [Prototipo en Figma](https://www.figma.com/proto/hps5pgUhOIUXp7aydqOWMq/Bookie?page-id=0%3A1&node-id=145-3121&node-type=canvas&viewport=388%2C312%2C0.07&t=5nFk2UPSgdSaPgcI-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=145%3A3121)
-- [Video demostrativo](#)  
-- [Documentación oficial](https://drive.google.com/drive/folders/1Y8Cqw8kKARASbGS59DPaMGM3kdfGq6Ll?usp=sharing)
-
-
-  
-
+| Name | Role | Links |
+|---|---|---|
+| Rodrigo Cordoneda | Team Leader | [LinkedIn](https://www.linkedin.com/in/rodrigocordoneda/) |
+| Cristian Cerón | Product Manager | [LinkedIn](https://www.linkedin.com/in/cristianceronb/) |
+| **Sofía Álvarez** | **UX/UI Designer** | [LinkedIn](https://www.linkedin.com/in/sof%C3%ADa-%C3%A1lvarez-20/) · [GitHub](https://github.com/Sofi-Alvarez) |
+| Valentina Molina | UX/UI Designer | |
+| Jhosep Tinta Mancilla | Front-end | [LinkedIn](https://www.linkedin.com/in/jhosep-tinta/) · [GitHub](https://github.com/JhosepTM) |
+| Jose Luis Huanca | Front-end | [LinkedIn](https://www.linkedin.com/in/joseluishc/) · [GitHub](https://github.com/JoseLuisHcoder) |
+| Daniel Matos | Back-end | [GitHub](https://github.com/Daniel-M12) |
+| Maximiliano Echeverría | Back-end | [LinkedIn](https://www.linkedin.com/in/maximiliano-echeverria/) · [GitHub](https://github.com/MaximilianoEcheverria) |
